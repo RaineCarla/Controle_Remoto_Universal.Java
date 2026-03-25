@@ -7,8 +7,10 @@ Estrutura do Projeto:
 
 --Interface_ControleUniversal/Controle_Universal.java
 Define a interface comum para todos os dispositivos (ligar(), desligar(), aumentarVolume(), diminuirVolume()).
+
+
 APIs/
-Contém as classes das APIs originais de cada dispositivo:
+--Contém as classes das APIs originais de cada dispositivo:
 TvSamsungAPi.java
 TV_LG_APi.java
 ArCondicionadoApi.java
@@ -29,6 +31,6 @@ Main.java
 Testa o controle remoto universal com diferentes dispositivos
 
 Linguagens utilizadas: 
-Padrões de Projeto
-Java
+Padrões de Projeto,
+Java,
 POO
